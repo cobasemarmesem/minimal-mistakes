@@ -4,3 +4,4 @@ date: 2024-06-06 13:34:00 +07:00
 ---
 
 test123
+![HK-MBAH-SEMAR.png](/uploads/HK-MBAH-SEMAR.png)
