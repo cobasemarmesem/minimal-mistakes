@@ -27,7 +27,7 @@ name: Prediksi Hk Mbah Semar
 description: Prediksi Hk Mbah Semar.
 url: 
 baseurl: https://prediksi.hkmbahsemar.me/
-repository: https://github.com/cobasemarmesem/minimal-mistakes
+repository: cobasemarmesem/minimal-mistakes
 teaser: 
 logo: "/uploads/HK-MBAH-SEMAR.png"
 masthead_title: 
