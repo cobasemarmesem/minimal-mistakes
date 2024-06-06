@@ -1,6 +1,6 @@
 ---
-title: Site Title
-timezone: UTC
+title: Prediksi Hk Mbah Semar
+timezone: Asia/Jakarta
 collections:
   posts:
     title: Posts
@@ -23,13 +23,13 @@ minimal_mistakes_skin: default
 locale: en-US
 title_separator: "-"
 subtitle: 
-name: Your Name
+name: Prediksi Hk Mbah Semar
 description: An amazing website.
 url: 
 baseurl: 
 repository: 
 teaser: 
-logo: 
+logo: "/uploads/HK-MBAH-SEMAR.png"
 masthead_title: 
 words_per_minute: 200
 enable_copy_code_button: 
@@ -104,38 +104,16 @@ analytics:
     tracking_id: 
     anonymize_ip: 
 author:
-  name: Your Name
+  name: Hk Mbah Semar
   avatar: 
-  bio: I am an **amazing** person.
-  location: Somewhere
-  email: 
+  bio: Prediksi Hk Mbah Semar Akurat
+  location: Indonesia
+  email: megafitria297@gmail.com
   links:
   - label: Email
     icon: fas fa-fw fa-envelope-square
   - label: Website
     icon: fas fa-fw fa-link
-  - label: Twitter
-    icon: fab fa-fw fa-twitter-square
-  - label: Facebook
-    icon: fab fa-fw fa-facebook-square
-  - label: GitHub
-    icon: fab fa-fw fa-github
-  - label: Instagram
-    icon: fab fa-fw fa-instagram
-footer:
-  links:
-  - label: Twitter
-    icon: fab fa-fw fa-twitter-square
-  - label: Facebook
-    icon: fab fa-fw fa-facebook-square
-  - label: GitHub
-    icon: fab fa-fw fa-github
-  - label: GitLab
-    icon: fab fa-fw fa-gitlab
-  - label: Bitbucket
-    icon: fab fa-fw fa-bitbucket
-  - label: Instagram
-    icon: fab fa-fw fa-instagram
 include:
 - ".htaccess"
 - _pages
