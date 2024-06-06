@@ -24,10 +24,10 @@ locale: en-US
 title_separator: "-"
 subtitle: 
 name: Prediksi Hk Mbah Semar
-description: An amazing website.
+description: Prediksi Hk Mbah Semar.
 url: 
-baseurl: 
-repository: 
+baseurl: "https://prediksi.hkmbahsemar.me/"
+repository: "https://github.com/cobasemarmesem/minimal-mistakes"
 teaser: 
 logo: "/uploads/HK-MBAH-SEMAR.png"
 masthead_title: 
