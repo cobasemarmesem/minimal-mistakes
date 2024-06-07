@@ -1,6 +1,6 @@
 ---
-title: Site Title
-timezone: UTC
+title: Prediksi Hk Mbah Semar
+timezone: Asia/Jakarta
 collections:
   posts:
     title: Posts
@@ -23,13 +23,17 @@ minimal_mistakes_skin: default
 locale: en-US
 title_separator: "-"
 subtitle: 
-name: Your Name
-description: An amazing website.
-url: 
+name: Hk Mbah Semar
+description: Selamat datang di [prediksi hk mbah semar](https://prediksi.hkmbahsemar.me),
+  pusat prediksi togel Hongkong terpercaya dari Mbah Semar. Kami menyediakan prediksi
+  terkini dan syair Mbah Semar untuk hk hari ini, termasuk analisis dari semar mesem
+  hk, semar jowo hk, dan semar sakti hk. Dapatkan informasi terbaru untuk membuat
+  keputusan togel yang lebih tepat di prediksi.hkmbahsemar.me.
+url: prediksi.hkmbahsemar.me
 baseurl: 
 repository: 
 teaser: 
-logo: 
+logo: "/uploads/HK-MBAH-SEMAR.png"
 masthead_title: 
 words_per_minute: 200
 enable_copy_code_button: 
@@ -63,9 +67,6 @@ comments:
   staticman:
     branch: 
     endpoint: 
-reCaptcha:
-  siteKey: 
-  secret: 
 atom_feed:
   path: 
   hide: 
@@ -82,7 +83,7 @@ algolia:
 google:
   search_engine_id: 
   instant_search: 
-google_site_verification: 
+google_site_verification: RQo0Z0kdQ6DjiNXPtbhlbWjQhK0h-SN9SkvPAl_nkeU
 bing_site_verification: 
 naver_site_verification: 
 yandex_site_verification: 
@@ -104,11 +105,11 @@ analytics:
     tracking_id: 
     anonymize_ip: 
 author:
-  name: Your Name
+  name: Hk Mbah Semar
   avatar: 
-  bio: I am an **amazing** person.
-  location: Somewhere
-  email: 
+  bio: Prediksi Hk Mbah Semar
+  location: Indonesia
+  email: megafitria297@gmail.com
   links:
   - label: Email
     icon: fas fa-fw fa-envelope-square
